@@ -1,2 +1,2 @@
 # Obstacle_Avoidance_Robot
-This project uses LED for display
+This project uses LCD for display
